@@ -1,7 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PhatLee877/pet/refs/heads/main/pet"))(
-
---script
-
 loadstring(game:HttpGet("https://pastefy.app/aDXsZ6k2/raw"))()
 
 --backpack
@@ -18,5 +14,9 @@ end)
 pcall(function()
     StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true)
 end)
+
+--scripts
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PhatLee877/pet/refs/heads/main/pet"))(
 
 
