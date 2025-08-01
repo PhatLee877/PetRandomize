@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://pastefy.app/J1irH4za/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PhatLee877/pet/refs/heads/main/pet"))(
+
+--script
+
+loadstring(game:HttpGet("https://pastefy.app/aDXsZ6k2/raw"))()
