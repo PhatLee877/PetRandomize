@@ -17,6 +17,6 @@ end)
 
 --scripts
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PhatLee877/pet/refs/heads/main/pet"))(
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PhatLee877/pet/refs/heads/main/pet"))()
 
 
